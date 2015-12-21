@@ -1,7 +1,7 @@
-### DncWave
+## DncWave
 动态水波纹
 
-### 效果
+## 效果
 ![](https://github.com/githubliruiyuan/DncWave/raw/master/gif/3.gif)  
 
 
